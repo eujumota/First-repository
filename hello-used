@@ -1,0 +1,12 @@
+programa
+{
+	
+	funcao inicio()
+	{
+	cadeia nome = "programa R"
+	cadeia sobrenome = "Modelagem"
+	
+	
+		escreva("Olá ", nome, " ",  sobrenome)
+	}
+}
